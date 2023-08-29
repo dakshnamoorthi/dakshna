@@ -20,8 +20,5 @@ else:
 print("dakshna")
 <<<<<<< HEAD
 print("abi")
-print("tharun+abi")
+print("tharun+abi+dakshna")
 
-=======
-print("abi+dakshna")
->>>>>>> feature
