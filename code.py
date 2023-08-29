@@ -20,7 +20,7 @@ else:
 print("dakshna")
 <<<<<<< HEAD
 print("abi")
-print("tharun")
+print("tharun+abi")
 
 =======
 print("abi+dakshna")
