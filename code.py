@@ -18,6 +18,10 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve repositories. Status code: {response.status_code}")
 print("dakshna")
+<<<<<<< HEAD
 print("abi")
 print("tharun")
 
+=======
+print("abi+dakshna")
+>>>>>>> feature
